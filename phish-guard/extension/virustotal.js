@@ -6,7 +6,7 @@
 
 // !! Replace this with your VirusTotal API key !!
 // Get one free at: https://www.virustotal.com → sign up → profile → API Key
-const VT_API_KEY = "YOUR_VIRUSTOTAL_API_KEY_HERE";
+const VT_API_KEY = "2bd5174c85c2bb33dd48fe113ae400f81fc4a7cb1a0a3542b1651dc178735f6e";
 
 // ── Step 1: Submit a URL to VirusTotal for scanning ──
 // VirusTotal gives back an analysis ID we use in step 2
